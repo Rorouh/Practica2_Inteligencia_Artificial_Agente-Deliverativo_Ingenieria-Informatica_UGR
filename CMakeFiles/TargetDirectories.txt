@@ -1,0 +1,9 @@
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/rebuild_cache.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/edit_cache.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/practica2SG.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/practica2.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/motorLib.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/GLUILib.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/comportamientosLib.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/modelosBelkanLib.dir
+/home/aulas/Descargas/IA/practica2-main/CMakeFiles/obj3DLib.dir
