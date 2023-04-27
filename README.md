@@ -1,0 +1,2 @@
+# Practica2_Inteligencia_Artificial_Agente-Deliverativo_Ingenieria-Informatica_UGR
+Practica2_Inteligencia_Artificial_Agente Deliverativo_Ingenieria Informatica_UGR
